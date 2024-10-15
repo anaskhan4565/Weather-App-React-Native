@@ -1,0 +1,119 @@
+{
+    "current": {
+        "cloud": 100,
+        "condition": {
+            "code": 1276,
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/389.png",
+            "text": "Moderate or heavy rain with thunder"
+        },
+        "dewpoint_c": 25.5,
+        "dewpoint_f": 78,
+        "feelslike_c": 42.3,
+        "feelslike_f": 108.1,
+        "gust_kph": 53.3,
+        "gust_mph": 33.1,
+        "heatindex_c": 40.3,
+        "heatindex_f": 104.5,
+        "humidity": 56,
+        "is_day": 1,
+        "last_updated": "2024-07-19 16:45",
+        "last_updated_epoch": 1721389500,
+        "precip_in": 0,
+        "precip_mm": 0,
+        "pressure_in": 29.38,
+        "pressure_mb": 995,
+        "temp_c": 33.1,
+        "temp_f": 91.6,
+        "uv": 8,
+        "vis_km": 2,
+        "vis_miles": 1,
+        "wind_degree": 230,
+        "wind_dir": "SW",
+        "wind_kph": 46.1,
+        "wind_mph": 28.6,
+        "windchill_c": 32.4,
+        "windchill_f": 90.3
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2024-07-19",
+                "day": {
+                    "maxtemp_c": 34,
+                    "mintemp_c": 28,
+                    "condition": {
+                        "text": "Partly cloudy",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png"
+                    }
+                }
+            },
+            {
+                "date": "2024-07-20",
+                "day": {
+                    "maxtemp_c": 33,
+                    "mintemp_c": 27,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png"
+                    }
+                }
+            },
+            {
+                "date": "2024-07-21",
+                "day": {
+                    "maxtemp_c": 32,
+                    "mintemp_c": 26,
+                    "condition": {
+                        "text": "Rain",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/308.png"
+                    }
+                }
+            },
+            {
+                "date": "2024-07-22",
+                "day": {
+                    "maxtemp_c": 31,
+                    "mintemp_c": 25,
+                    "condition": {
+                        "text": "Thunderstorm",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/389.png"
+                    }
+                }
+            },
+            {
+                "date": "2024-07-23",
+                "day": {
+                    "maxtemp_c": 30,
+                    "mintemp_c": 24,
+                    "condition": {
+                        "text": "Cloudy",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png"
+                    }
+                }
+            }
+        ]
+    },
+    "location": {
+        "country": "Pakistan",
+        "lat": 24.87,
+        "localtime": "2024-07-19 16:58",
+        "localtime_epoch": 1721390286,
+        "lon": 67.05,
+        "name": "Karachi",
+        "region": "Sindh",
+        "tz_id": "Asia/Karachi"
+    }
+}
+{
+    [
+        {
+            "country": "Guyana",
+            "id": 9007090,
+            "lat": 5.87,
+            "lon": -60.61,
+            "name": "Kamarang Airport",
+            "region": "Kamarang",
+            "url": "kamarang-airport-kamarang-guyana"
+        }
+    ]
+}
